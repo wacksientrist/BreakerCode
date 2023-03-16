@@ -3,7 +3,7 @@
 
 int main()
 {
-    FILE *fil = fopen("/Users/jacob/Desktop/Code_Stuff/Projects/Google Pass 5/test/a.txt", "r");
+    FILE *fil = fopen("/Code/a.txt", "r");
 
     int i, i2, i3, i4;
     char password[7];
